@@ -6,9 +6,10 @@ color:
   saturation: 0.8876498541794717
   rhythmicContrast: 0.44950736314058304
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: THIS IS BAGGY
+style: taylor
